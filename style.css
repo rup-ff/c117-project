@@ -1,0 +1,19 @@
+body
+{
+ background-color: thistle;
+}
+#SCORE
+{
+ font-size:20px;
+ margin-left:25px;
+}
+#TIME
+{
+  font-size:25px;
+  float:right;
+  margin-right:25px;
+}
+#SKETCHTOBEDRAWN
+{
+  color:rebeccapurple;
+}
